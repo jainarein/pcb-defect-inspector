@@ -1,6 +1,6 @@
 # PCB Defect Inspector — Low-Cost Edge AI Automated Optical Inspection
 
-A complete, low-cost PCB defect inspection system combining quantized YOLO11n object detection with nearest-neighbor anomaly detection, designed to run on a Raspberry Pi. Total hardware cost under ₹15,000.
+A complete, low-cost PCB defect inspection system combining quantized YOLO11n object detection with nearest-neighbor anomaly detection, designed to run on a Raspberry Pi.
 
 ---
 
