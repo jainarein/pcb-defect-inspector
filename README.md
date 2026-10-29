@@ -2,8 +2,6 @@
 
 A complete, low-cost PCB defect inspection system combining quantized YOLO11n object detection with nearest-neighbor anomaly detection, designed to run on a Raspberry Pi. Total hardware cost under ₹15,000.
 
-Submitting to ST TechWeek 2027 Academic Paper Track — Edge AI and AI/ML Algorithms, Models and Applications
-
 ---
 
 ## The Problem
@@ -79,14 +77,13 @@ ELSE:
 
 ## Hardware
 
-| Component | Specification | Cost (₹) |
-|-----------|--------------|-----------|
-| Compute | Raspberry Pi 4/5 (4 GB) | 5,000–8,000 |
-| Camera | RPi Camera Module 3 | 2,500 |
-| Storage + PSU | 32 GB microSD + USB-C | 1,000 |
-| Lighting | LED ring light | 300–500 |
-| Enclosure | 3D-printed / acrylic | 500–1,000 |
-| **Total** | | **9,300–13,000** |
+| Component | Specification |
+|-----------|--------------|
+| Compute | Raspberry Pi 4/5 (4 GB) |
+| Camera | RPi Camera Module 3 |
+| Storage + PSU | 32 GB microSD + USB-C |
+| Lighting | LED ring light |
+| Enclosure | 3D-printed / acrylic |
 
 ---
 
